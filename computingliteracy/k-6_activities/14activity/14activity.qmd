@@ -22,6 +22,7 @@ In this activity, students will use a robot to create squares made up of forward
 - IPAD
 - Map
 - Square Challenge Paper Instructions
+- optional: GoPiGo Robot
 
 ## Picture of the Map
 
@@ -52,6 +53,13 @@ In this activity, students will use a robot to create squares made up of forward
 - Once modifying their courses, ask them to keep track of how many times they meet their goal.
 - 🔍 *Focus Skills*: critical thinking, input and output relationships
 
+#### GoPiGo Challenge
+- Students should be familiar with the idea and application of block code, which uses a drag and drop mechanism. To refresh their awareness and to adjust to the GoPiGo robot, have them attempt to move the robot in two square rotations. Make one with only forward and left movements, and one with only forward and right movements.
+    - If students need more time to adjust, they can progress to making additional squares with different combinations of movements or other shapes as needed.
+- Continue the challenge as directed in the intermediate section, but with the GoPiGo robot and block code application.
+- If time allows, encourage students to build their own A-to-B pathways with varying levels of difficult obstacles.
+- 🔍 *Focus Skills*: critical thinking, input and output relationships
+
 ## Discussion & Reflection
 
 After the activity has been completed, gather the class for a quick debrief. We can ask:
@@ -62,7 +70,7 @@ After the activity has been completed, gather the class for a quick debrief. We 
 - Were there any pathways you found to be easy?
 - How many times were you able to finish your A-to-B pathways?
 - For those who kept count, how many times were you able to complete the pathway?
-   
+
 ## Wrap-Up
 
 By programming Blue-Bots to navigate maps with specific constraints, students develop an understanding of how conditions affect movement and decision-making. The activity reinforces computational thinking, logical reasoning, and teamwork while encouraging students to experiment with different coding sequences.
